@@ -1,2 +1,1 @@
-# mobile_project
-Coursework_MobileProgramming
+# Noise-Cafe
